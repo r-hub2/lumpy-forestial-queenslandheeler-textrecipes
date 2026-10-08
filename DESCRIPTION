@@ -35,7 +35,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 SystemRequirements: "GNU make"
 NeedsCompilation: yes
-Packaged: 2026-10-08 21:58:21 UTC; emilhvitfeldt
+Packaged: 2026-10-08 22:06:35 UTC; emilhvitfeldt
 Author: Emil Hvitfeldt [aut, cre] (ORCID:
     <https://orcid.org/0000-0002-0679-1945>),
   Michael W. Kearney [cph] (author of count_functions),
